@@ -1,5 +1,5 @@
 # lwt-docker
-Learning With Texts Docker
+Learning With Texts Dockerfile
 
 http://lwt.sourceforge.net/
 
